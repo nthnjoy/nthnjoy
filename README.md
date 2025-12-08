@@ -14,9 +14,8 @@
 # 🧬 **GITHUB SYSTEM STATISTICS**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nthnjoy&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://img.shields.io/badge/GitHub_Streak-Active-blue?style=for-the-badge&logo=github" />
 </p>
-
 ---
 
 
