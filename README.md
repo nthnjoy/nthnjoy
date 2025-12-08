@@ -14,8 +14,9 @@
 # 🧬 **GITHUB SYSTEM STATISTICS**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Streak-Active-blue?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nthnjoy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
+
 ---
 
 
