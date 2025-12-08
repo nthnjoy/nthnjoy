@@ -14,7 +14,7 @@
 # 🧬 **GITHUB SYSTEM STATISTICS**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthnjoy&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=nthnjoy&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ---
