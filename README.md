@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src= "https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=Haii+Guys+!;Entering+Nathanael's+Github+Space...;Mobile+Developer+⚡+System+Engineer;Open+for+Project+Collaboration" />
+<img src= "https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=Espada+Ign;Entering+Nathanael's+Github+Space...;Mobile+Developer+⚡+System+Engineer;Open+for+Project+Collaboration" />
 
 </div>
 
