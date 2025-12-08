@@ -2,12 +2,12 @@
 
 <!-- CYBER WALLPAPER HEADER -->
 <p align="center">
-  <img src= "https://i.ibb.co/5vYn5gL/cyberheader.png" width="100%" style="border-radius: 12px"; />
+  <img src="https://i.ibb.co/5vYn5gL/cyberheader.png" width="100%" style="border-radius: 12px;" />
 </p>
 
 <div align="center">
 
-<img src= "https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=Access+Granted+🔓;Entering+Nathanael's+Cyber+Space...;Mobile+Developer+⚡+System+Engineer;Creating+Neon+Digital+Realities" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=Access+Granted+🔓;Entering+Nathanael's+Cyber+Space...;Mobile+Developer+⚡+System+Engineer;Creating+Neon+Digital+Realities" />
 
 </div>
 
@@ -26,6 +26,5 @@
 
 ---
 
-# 🛡️ **CYBER LOG**
-> *“Every line of code is a trace in the neon matrix.”*
+# 🛡️ **CYBER LOG — SYSTEM BOOT TRACE**
 
